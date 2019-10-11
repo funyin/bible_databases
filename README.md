@@ -16,6 +16,7 @@ Here you will find the following bible versions in sql, sqlite, xml, csv, and js
 All included Bible translations are in the public domain. 
 
 *Please let me know if any verses/text were inaccurately transferred in conversion.*
+Not all versions have the same number of verses
 
 Looking for deuterocanonical / apocryphal books? Find them here: https://github.com/scrollmapper/bible_databases_deuterocanonical
 
